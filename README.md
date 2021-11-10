@@ -1,6 +1,6 @@
 # news_app_demo_bloc
 
-News app demo bloc. json fatching example using Bloc state management
+FLUTTER: News app demo bloc. json fatching example using Bloc state management
 
 ## Getting Started
 
